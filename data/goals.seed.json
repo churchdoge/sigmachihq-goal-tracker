@@ -1,0 +1,2425 @@
+[
+  {
+    "annualRating": null,
+    "assigneeIds": [
+      "Michael Berger"
+    ],
+    "category": "Process improvement initiative completed",
+    "createdAt": "2026-09-10T19:47:15.537Z",
+    "createdBy": "Unattributed",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Accountability - 161",
+    "deptSlot": 7,
+    "keyResults": [
+      {
+        "id": "kr1789069635537-0",
+        "progress": {},
+        "target": "Q2",
+        "text": "Complete"
+      }
+    ],
+    "managerId": "Mike Church",
+    "objective": "Working with the RMF, complete and deliver a review of fraternity health/safety policies and provide a recommendation to the Executive Committee for consideration of improvements in deliverables or policy language.",
+    "personId": "William Scott",
+    "personName": "William Scott",
+    "priority": false,
+    "updatedAt": "2026-09-10T19:47:22.377Z",
+    "id": "26p6kzc96wsilcxx6i66"
+  },
+  {
+    "annualRating": null,
+    "assigneeIds": [
+      "Michael Berger"
+    ],
+    "category": "CAMAC data completeness / accuracy",
+    "createdAt": "2026-09-10T19:48:18.129Z",
+    "createdBy": "Unattributed",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Accountability - 161",
+    "deptSlot": 7,
+    "keyResults": [
+      {
+        "id": "kr1789069698129-0",
+        "progress": {},
+        "target": "Monthly",
+        "text": "Reported by 5th day of each month"
+      }
+    ],
+    "managerId": "Mike Church",
+    "objective": "Streamline and improve the consistency and quality and timeliness of reporting for all conduct cases to the CAMAC and the Executive Committee",
+    "personId": "William Scott",
+    "personName": "William Scott",
+    "priority": false,
+    "updatedAt": "2026-09-10T19:48:20.423Z",
+    "id": "3ek3vaiptq7eiemdbpxs"
+  },
+  {
+    "annualRating": null,
+    "category": "Strategic plan milestone completion",
+    "createdAt": "2026-09-10T19:44:14.023Z",
+    "createdBy": "Unattributed",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "General & Administrative - 100",
+    "deptSlot": 1,
+    "keyResults": [
+      {
+        "id": "kr1789069454023-0",
+        "progress": {},
+        "target": "Q3",
+        "text": "Complete by end of Q3"
+      }
+    ],
+    "managerId": "Mike Church",
+    "objective": "Successfully complete a benefits renewal process through the lifecycle of RFP, selection, employee benefits elections, and implementation/onboarding",
+    "personId": "Brook Gruszka",
+    "personName": "Brook Gruszka",
+    "priority": false,
+    "updatedAt": "2026-09-10T19:44:14.023Z",
+    "id": "46tsr2b8n1a24c6xl9eg"
+  },
+  {
+    "annualRating": null,
+    "category": "In-Person Visit Coverage & Reporting",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from Chapter Support Visioning Statement for FY26-27 PDF \u2014 Performance Expectations & Accountability standards, applied to all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "30 visits across 29 chapters (Region 5) by June 30, 2027 \u2014 28 active/associate chapters at 1 visit each, 1 Chapter Enhancement chapter(s) at 2 visits each (1 per semester); logged in the trip tracker",
+        "text": "Complete required in-person chapter visits"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "TransfORM completion, FLC completion, and required document submission reviewed prior to each visit so the data drives visit conversations and meetings",
+        "text": "Review chapter data before every visit"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "100% of visit summary reports submitted to key volunteers and the Managing Director within 3 business days of each in-person visit; reviewed quarterly for timeliness and completeness",
+        "text": "Submit visit summary reports on time"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 Chapter Visit Coverage & Reporting",
+    "personId": "Chris Hicks",
+    "personName": "Chris Hicks",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "chris-fy27-obj1"
+  },
+  {
+    "annualRating": null,
+    "category": "FSL Engagement & Chapter Health Standards",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (added 2026-09-10 \u2014 Strategic Plan review component, from the Visioning Statement's 'Strategic Plan Review at every visit' strategic priority, applied to all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Introduce or re-establish documented, in-person contact with the Fraternity & Sorority Life professional at each campus visited this year; FSL contact name recorded in every visit report",
+        "text": "Establish FSL engagement at every campus visited"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Standardized chapter health assessment completed and submitted with the chapter visit report at or immediately following every visit",
+        "text": "Complete chapter health assessments"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "New P4B and R4L framework reviewed with chapter leadership at every in-person visit; adoption status recorded in the visit report, with follow-up to the TransfORM mentor once in place",
+        "text": "Drive P4B/R4L adoption"
+      },
+      {
+        "id": "kr4",
+        "progress": {},
+        "target": "During the Executive Committee portion of every in-person visit, review the chapter's Strategic Plan with the Pro Consul and provide an update on the chapter's progress toward it \u2014 practiced at 100% of visits this year",
+        "text": "Review the chapter Strategic Plan at every visit"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 On-Campus Chapter Development Standards",
+    "personId": "Chris Hicks",
+    "personName": "Chris Hicks",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "chris-fy27-obj2"
+  },
+  {
+    "annualRating": null,
+    "category": "Bell Chapter Educational Program Delivery",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (added 2026-09-10 \u2014 Bell Chapter Deliveries: specific educational program deliveries for chapters holding Blue-level, $250K+ endowment status with the Sigma Chi Foundation; added as a top-level FY27 priority for all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Placeholder \u2014 confirm with the Sigma Chi Foundation which chapter(s) in Region 5 currently qualify as a Bell Chapter (Blue-level, $250K+ endowment) for FY27",
+        "text": "Identify Bell Chapters in the region"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Placeholder \u2014 exact educational program content and delivery cadence to be confirmed with Ryan Wakefield/the Foundation; deliver to 100% of the region's qualifying Bell Chapters during FY27",
+        "text": "Deliver the required Bell Chapter educational programming"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 Bell Chapter Educational Program Delivery",
+    "personId": "Chris Hicks",
+    "personName": "Chris Hicks",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "chris-fy27-obj3"
+  },
+  {
+    "annualRating": null,
+    "category": "In-Person Visit Coverage & Reporting",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from Chapter Support Visioning Statement for FY26-27 PDF \u2014 Performance Expectations & Accountability standards, applied to all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "27 visits across 26 chapters (Region 1) by June 30, 2027 \u2014 25 active/associate chapters at 1 visit each, 1 Chapter Enhancement chapter(s) at 2 visits each (1 per semester); logged in the trip tracker",
+        "text": "Complete required in-person chapter visits"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "TransfORM completion, FLC completion, and required document submission reviewed prior to each visit so the data drives visit conversations and meetings",
+        "text": "Review chapter data before every visit"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "100% of visit summary reports submitted to key volunteers and the Managing Director within 3 business days of each in-person visit; reviewed quarterly for timeliness and completeness",
+        "text": "Submit visit summary reports on time"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 Chapter Visit Coverage & Reporting",
+    "personId": "Clyde Dornier",
+    "personName": "Clyde Dornier",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "clyde-fy27-obj1"
+  },
+  {
+    "annualRating": null,
+    "category": "FSL Engagement & Chapter Health Standards",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (added 2026-09-10 \u2014 Strategic Plan review component, from the Visioning Statement's 'Strategic Plan Review at every visit' strategic priority, applied to all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Introduce or re-establish documented, in-person contact with the Fraternity & Sorority Life professional at each campus visited this year; FSL contact name recorded in every visit report",
+        "text": "Establish FSL engagement at every campus visited"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Standardized chapter health assessment completed and submitted with the chapter visit report at or immediately following every visit",
+        "text": "Complete chapter health assessments"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "New P4B and R4L framework reviewed with chapter leadership at every in-person visit; adoption status recorded in the visit report, with follow-up to the TransfORM mentor once in place",
+        "text": "Drive P4B/R4L adoption"
+      },
+      {
+        "id": "kr4",
+        "progress": {},
+        "target": "During the Executive Committee portion of every in-person visit, review the chapter's Strategic Plan with the Pro Consul and provide an update on the chapter's progress toward it \u2014 practiced at 100% of visits this year",
+        "text": "Review the chapter Strategic Plan at every visit"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 On-Campus Chapter Development Standards",
+    "personId": "Clyde Dornier",
+    "personName": "Clyde Dornier",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "clyde-fy27-obj2"
+  },
+  {
+    "annualRating": null,
+    "category": "Bell Chapter Educational Program Delivery",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (added 2026-09-10 \u2014 Bell Chapter Deliveries: specific educational program deliveries for chapters holding Blue-level, $250K+ endowment status with the Sigma Chi Foundation; added as a top-level FY27 priority for all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Placeholder \u2014 confirm with the Sigma Chi Foundation which chapter(s) in Region 1 currently qualify as a Bell Chapter (Blue-level, $250K+ endowment) for FY27",
+        "text": "Identify Bell Chapters in the region"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Placeholder \u2014 exact educational program content and delivery cadence to be confirmed with Ryan Wakefield/the Foundation; deliver to 100% of the region's qualifying Bell Chapters during FY27",
+        "text": "Deliver the required Bell Chapter educational programming"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 Bell Chapter Educational Program Delivery",
+    "personId": "Clyde Dornier",
+    "personName": "Clyde Dornier",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "clyde-fy27-obj3"
+  },
+  {
+    "annualRating": null,
+    "category": "Recruitment & Chapter Growth",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (Expansion Coordinator role metrics, applied to all current ECs)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Expansion - 155",
+    "deptSlot": 5,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "350 for full bonus ($1,000) \u2014 tiers at 200/250/300/350",
+        "text": "Generate qualified leads"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "101% of target for full bonus ($1,000) \u2014 tiers at 75%/90%/100%/101%",
+        "text": "Achieve strong associate chapter starting size (average)"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "25 for full bonus ($500) \u2014 tiers at 10/15/20/25",
+        "text": "Drive campus organization outreach (NCI)"
+      }
+    ],
+    "managerId": "Des Robinson",
+    "objective": "Recruitment & Chapter Growth Metrics",
+    "personId": "Connor Schell",
+    "personName": "Connor Schell",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "connor-fy27-obj1"
+  },
+  {
+    "annualRating": null,
+    "category": "Chapter Startup & Support",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (Expansion Coordinator role metrics, applied to all current ECs)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Expansion - 155",
+    "deptSlot": 5,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "100% for full bonus ($250) \u2014 50% tier at 75%, 100% tier at 100%",
+        "text": "Achieve strong chapter startup performance (average)"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "3 for full bonus ($250) \u2014 50% tier at 2, 100% tier at 3",
+        "text": "Complete support visits (average)"
+      }
+    ],
+    "managerId": "Des Robinson",
+    "objective": "Chapter Startup & Support Metrics",
+    "personId": "Connor Schell",
+    "personName": "Connor Schell",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "connor-fy27-obj2"
+  },
+  {
+    "annualRating": null,
+    "assigneeIds": [],
+    "category": "Operational excellence / uptime & security",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from FY27 IT Strategic Objectives doc)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Information Technology - 140",
+    "deptSlot": 3,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {
+          "Q1": {
+            "note": "Dale provided stats showing 99.9% uptime for Q1",
+            "status": "On Track",
+            "updatedAt": "2026-09-14T18:14:30.700Z",
+            "updatedBy": "Unattributed"
+          }
+        },
+        "target": "\u226599% uptime",
+        "text": "Maintain uptime on critical systems (Salesforce/Fonteva, Microsoft 365/Exchange Online, MapleLMS, HappyFox), tracked and reported monthly"
+      },
+      {
+        "id": "kr2",
+        "progress": {
+          "Q1": {
+            "note": "Dale missed one critical security patch",
+            "status": "Complete",
+            "updatedAt": "2026-09-14T18:15:11.460Z",
+            "updatedBy": "Unattributed"
+          }
+        },
+        "target": "100% within 30 days",
+        "text": "Complete critical security patches/updates after release"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "Quarterly",
+        "text": "Validate backup/recovery for critical systems via test restore"
+      },
+      {
+        "id": "kr4",
+        "progress": {},
+        "target": "Targets met, reviewed quarterly",
+        "text": "Meet documented ticket priority tier (P1/P2/P3) response-time targets"
+      },
+      {
+        "id": "kr5",
+        "progress": {},
+        "target": "Zero",
+        "text": "Avoid major preventable outages during Grand Chapter or KTLW"
+      },
+      {
+        "id": "kr6",
+        "progress": {},
+        "target": "Top 10 documented by Q3 (Jan\u2013Mar 2027)",
+        "text": "Maintain documentation for the highest-risk systems/processes"
+      },
+      {
+        "id": "kr7",
+        "progress": {},
+        "target": "By Q4 (Apr\u2013Jun)",
+        "text": "Deliver a formal technology risk & opportunity review to leadership"
+      },
+      {
+        "id": "kr8",
+        "progress": {},
+        "target": "15% YoY reduction, measured and reported at FY close (Q4)",
+        "text": "Stretch \u2014 Reduce recurring incidents (by category) year-over-year via root-cause fixes"
+      },
+      {
+        "id": "kr9",
+        "progress": {},
+        "target": "3 additional systems",
+        "text": "Stretch \u2014 Add enhanced monitoring/alerting for additional critical systems"
+      },
+      {
+        "id": "kr10",
+        "progress": {},
+        "target": "1 exercise",
+        "text": "Stretch \u2014 Complete a tabletop disaster recovery / business continuity exercise"
+      },
+      {
+        "id": "kr11",
+        "progress": {},
+        "target": "Published & reported",
+        "text": "Stretch \u2014 Publish formal SLA targets with quarterly reporting to leadership"
+      },
+      {
+        "id": "kr12",
+        "progress": {},
+        "target": "Drafted",
+        "text": "Stretch \u2014 Draft an initial 3-year technology lifecycle plan for hardware/software refresh"
+      }
+    ],
+    "managerId": "Mike Church",
+    "objective": "Keep the Lights On \u2014 Operational Excellence (50% of the FY27 IT plan)",
+    "personId": "Dale Thomas",
+    "personName": "Dale Thomas",
+    "priority": true,
+    "updatedAt": "2026-09-10T18:15:40.847Z",
+    "id": "dale-fy27-it-obj1"
+  },
+  {
+    "annualRating": null,
+    "category": "AI adoption & efficiency",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from FY27 IT Strategic Objectives doc)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Information Technology - 140",
+    "deptSlot": 3,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "5\u201310 by Q2 (Oct\u2013Dec)",
+        "text": "Identify and document candidate processes for AI application"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "2\u20133 use cases",
+        "text": "Implement AI use cases with a defined before/after time-savings metric"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "In place by Q3 (Jan\u2013Mar 2027)",
+        "text": "Put AI into active use within IT's own documentation, troubleshooting, and comms workflows"
+      },
+      {
+        "id": "kr4",
+        "progress": {},
+        "target": "By Q2 (Oct\u2013Dec)",
+        "text": "Deliver a staff AI orientation/guidance session"
+      },
+      {
+        "id": "kr5",
+        "progress": {},
+        "target": "Published & reviewed",
+        "text": "Publish baseline AI acceptable-use and data-privacy guidelines, reviewed by leadership"
+      },
+      {
+        "id": "kr6",
+        "progress": {},
+        "target": "1 capability",
+        "text": "Stretch \u2014 Implement a third-party or Salesforce-based AI capability for staff or members"
+      },
+      {
+        "id": "kr7",
+        "progress": {},
+        "target": "\u226550% fewer steps",
+        "text": "Stretch \u2014 Automate a workflow with a major reduction in manual steps"
+      }
+    ],
+    "managerId": "Mike Church",
+    "objective": "Use AI to Work Smarter (15% of the FY27 IT plan)",
+    "personId": "Dale Thomas",
+    "personName": "Dale Thomas",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "dale-fy27-it-obj2"
+  },
+  {
+    "annualRating": null,
+    "assigneeIds": [
+      "NEIL MICHALENKO"
+    ],
+    "category": "Salesforce platform & data quality",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from FY27 IT Strategic Objectives doc)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Information Technology - 140",
+    "deptSlot": 3,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "3\u20135 ranked opportunities",
+        "text": "Maintain a prioritized Salesforce roadmap, reviewed each quarter"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "2\u20133 delivered",
+        "text": "Deliver completed Salesforce improvement initiatives by fiscal year end"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "At least 1 process",
+        "text": "Automate a manual process with a documented time or error-rate improvement"
+      },
+      {
+        "id": "kr4",
+        "progress": {},
+        "target": "2 areas",
+        "text": "Improve data quality in targeted areas (e.g. duplicate rate, required-field completeness)"
+      },
+      {
+        "id": "kr5",
+        "progress": {},
+        "target": "At least 1",
+        "text": "Deliver an improved report/dashboard for membership, education, or engagement data"
+      },
+      {
+        "id": "kr6",
+        "progress": {},
+        "target": "By Q2 (Oct\u2013Dec)",
+        "text": "Document a lightweight governance/intake process for Salesforce requests"
+      },
+      {
+        "id": "kr7",
+        "progress": {},
+        "target": "1 campaign",
+        "text": "Stretch \u2014 Launch a targeted or personalized member communication campaign using Salesforce data"
+      },
+      {
+        "id": "kr8",
+        "progress": {},
+        "target": "1 dashboard",
+        "text": "Stretch \u2014 Deliver a leadership/board engagement dashboard"
+      },
+      {
+        "id": "kr9",
+        "progress": {},
+        "target": "Quantified & reported",
+        "text": "Stretch \u2014 Quantify and report cost avoidance or staff time savings from automation"
+      }
+    ],
+    "managerId": "Mike Church",
+    "objective": "Leverage Salesforce to Transform & Return Value (15% of the FY27 IT plan)",
+    "personId": "Dale Thomas",
+    "personName": "Dale Thomas",
+    "priority": true,
+    "updatedAt": "2026-09-10T18:34:54.067Z",
+    "id": "dale-fy27-it-obj3"
+  },
+  {
+    "annualRating": null,
+    "assigneeIds": [
+      "NEIL MICHALENKO"
+    ],
+    "category": "Staff enablement & member engagement",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from FY27 IT Strategic Objectives doc)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Information Technology - 140",
+    "deptSlot": 3,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "By end of Q1 (Jul\u2013Sep)",
+        "text": "Complete a technology pain-point survey across departments, identifying the top 3 utilization gaps"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "2 sessions by Q3 (Jan\u2013Mar)",
+        "text": "Deliver targeted training sessions (30\u201345 min) on the #1-ranked gap"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "By Q2 (Oct\u2013Dec)",
+        "text": "Publish a self-service quick-reference page covering the top 5 recurring issues"
+      },
+      {
+        "id": "kr4",
+        "progress": {},
+        "target": "By end of Q1 (Jul\u2013Sep)",
+        "text": "Hold a kickoff meeting with incoming board leadership to define one top-priority member engagement use case"
+      },
+      {
+        "id": "kr5",
+        "progress": {},
+        "target": "By fiscal year end",
+        "text": "Deliver a backend Salesforce capability supporting that use case"
+      },
+      {
+        "id": "kr6",
+        "progress": {},
+        "target": "1 session",
+        "text": "Stretch \u2014 Deliver a 3rd training session on the #2-ranked gap"
+      },
+      {
+        "id": "kr7",
+        "progress": {},
+        "target": "1 champion",
+        "text": "Stretch \u2014 Informally nominate a technology champion in a key department"
+      },
+      {
+        "id": "kr8",
+        "progress": {},
+        "target": "1 pilot",
+        "text": "Stretch \u2014 Run a pilot campaign on the new engagement capability with a basic metric reported to the board"
+      }
+    ],
+    "managerId": "Mike Church",
+    "objective": "Staff Enablement & Board-Directed Member Engagement (20% of the FY27 IT plan)",
+    "personId": "Dale Thomas",
+    "personName": "Dale Thomas",
+    "priority": true,
+    "updatedAt": "2026-09-10T18:35:00.467Z",
+    "id": "dale-fy27-it-obj4"
+  },
+  {
+    "annualRating": null,
+    "category": "In-Person Visit Coverage & Reporting",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from Chapter Support Visioning Statement for FY26-27 PDF \u2014 Performance Expectations & Accountability standards, applied to all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "30 visits across 27 chapters (Region 8) by June 30, 2027 \u2014 24 active/associate chapters at 1 visit each, 3 Chapter Enhancement chapter(s) at 2 visits each (1 per semester); logged in the trip tracker",
+        "text": "Complete required in-person chapter visits"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "TransfORM completion, FLC completion, and required document submission reviewed prior to each visit so the data drives visit conversations and meetings",
+        "text": "Review chapter data before every visit"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "100% of visit summary reports submitted to key volunteers and the Managing Director within 3 business days of each in-person visit; reviewed quarterly for timeliness and completeness",
+        "text": "Submit visit summary reports on time"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 Chapter Visit Coverage & Reporting",
+    "personId": "Dan Mathewson",
+    "personName": "Dan Mathewson",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "dan-fy27-obj1"
+  },
+  {
+    "annualRating": null,
+    "category": "FSL Engagement & Chapter Health Standards",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (added 2026-09-10 \u2014 Strategic Plan review component, from the Visioning Statement's 'Strategic Plan Review at every visit' strategic priority, applied to all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Introduce or re-establish documented, in-person contact with the Fraternity & Sorority Life professional at each campus visited this year; FSL contact name recorded in every visit report",
+        "text": "Establish FSL engagement at every campus visited"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Standardized chapter health assessment completed and submitted with the chapter visit report at or immediately following every visit",
+        "text": "Complete chapter health assessments"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "New P4B and R4L framework reviewed with chapter leadership at every in-person visit; adoption status recorded in the visit report, with follow-up to the TransfORM mentor once in place",
+        "text": "Drive P4B/R4L adoption"
+      },
+      {
+        "id": "kr4",
+        "progress": {},
+        "target": "During the Executive Committee portion of every in-person visit, review the chapter's Strategic Plan with the Pro Consul and provide an update on the chapter's progress toward it \u2014 practiced at 100% of visits this year",
+        "text": "Review the chapter Strategic Plan at every visit"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 On-Campus Chapter Development Standards",
+    "personId": "Dan Mathewson",
+    "personName": "Dan Mathewson",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "dan-fy27-obj2"
+  },
+  {
+    "annualRating": null,
+    "category": "Bell Chapter Educational Program Delivery",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (added 2026-09-10 \u2014 Bell Chapter Deliveries: specific educational program deliveries for chapters holding Blue-level, $250K+ endowment status with the Sigma Chi Foundation; added as a top-level FY27 priority for all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Placeholder \u2014 confirm with the Sigma Chi Foundation which chapter(s) in Region 8 currently qualify as a Bell Chapter (Blue-level, $250K+ endowment) for FY27",
+        "text": "Identify Bell Chapters in the region"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Placeholder \u2014 exact educational program content and delivery cadence to be confirmed with Ryan Wakefield/the Foundation; deliver to 100% of the region's qualifying Bell Chapters during FY27",
+        "text": "Deliver the required Bell Chapter educational programming"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 Bell Chapter Educational Program Delivery",
+    "personId": "Dan Mathewson",
+    "personName": "Dan Mathewson",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "dan-fy27-obj3"
+  },
+  {
+    "annualRating": null,
+    "category": "Recruitment & Campus Expansion",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from Growth and Expansion Director metrics 2025-26.xlsx, carried into FY27; reorganized 2026-09-10 \u2014 'Secure letters of intent' and 'Submit campus/IFC applications' moved out to the new Campus Relationship Building objective)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Expansion - 155",
+    "deptSlot": 5,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "3 for full bonus ($1,000) \u2014 tiers at 1/2/3; FY25-26 baseline, to confirm/update for FY27; target schools: Northeastern, Northern Colorado, Quinnipiac, Nevada",
+        "text": "Deliver presentations"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "2 for full bonus ($500) \u2014 tiers at 1/2; FY25-26 baseline, to confirm/update for FY27; target groups: Northeastern, Nevada, Bishop's University-Sherbrooke",
+        "text": "Secure true interest group acceptance"
+      }
+    ],
+    "managerId": "William Scott",
+    "objective": "Recruitment Pipeline & Campus Expansion",
+    "personId": "Des Robinson",
+    "personName": "Des Robinson",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "des-fy27-obj1"
+  },
+  {
+    "annualRating": null,
+    "category": "Chapter Development & Growth Support",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from Growth and Expansion Director metrics 2025-26.xlsx, carried into FY27; reorganized 2026-09-10 \u2014 'Attend AFA...' moved out to the new Campus Relationship Building objective, 'Coordinate with the Undergraduate Growth Committee...' moved out to the new Growth objective, New Chapter Initiatives target updated to 4 per Mike)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Expansion - 155",
+    "deptSlot": 5,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "4 for full bonus ($750) \u2014 tiers at 1/2/3/4; updated to 4 for FY27 per Mike (2026-09-10); target groups: GVSU, Central Michigan, New York, Appalachian State (with interest), Northeastern (with interest), WashU, Arizona State, Kansas",
+        "text": "Advance New Chapter Initiatives"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "1 session for full bonus ($250) \u2014 July 6-10, 2026; FY25-26 baseline, to confirm/update for FY27",
+        "text": "Complete staff training"
+      }
+    ],
+    "managerId": "William Scott",
+    "objective": "New Chapter Development & Growth Support",
+    "personId": "Des Robinson",
+    "personName": "Des Robinson",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "des-fy27-obj2"
+  },
+  {
+    "annualRating": null,
+    "category": "Campus Relationship Building",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (new category added 2026-09-10, split from Recruitment Pipeline & Campus Expansion and New Chapter Development & Growth Support, plus a new 'Secure new campus expansion invitations' metric)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Expansion - 155",
+    "deptSlot": 5,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "40 for full bonus ($500) \u2014 tiers at 10/20/30/40; FY25-26 baseline, to confirm/update for FY27; may adjust once the Executive Committee approves the expansion list",
+        "text": "Secure letters of intent"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "5 for full bonus ($750) \u2014 tiers at 1/2/4/5; FY25-26 baseline, to confirm/update for FY27; target campuses: Northern Colorado, Dickinson, Washington, High Point, Tampa",
+        "text": "Submit campus/IFC applications"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "25 for full bonus ($250) \u2014 tiers at 10/15/20/25; FY25-26 baseline, to confirm/update for FY27; AFA & AFLV West",
+        "text": "Attend AFA and develop/maintain relationships within the FSL expansion network"
+      },
+      {
+        "id": "kr4",
+        "progress": {},
+        "target": "6 campuses (annual goal); 8 campuses (stretch goal); added 2026-09-10 per Mike \u2014 bonus dollar value not specified, to confirm",
+        "text": "Secure new campus expansion invitations"
+      }
+    ],
+    "managerId": "William Scott",
+    "objective": "Campus Relationship Building",
+    "personId": "Des Robinson",
+    "personName": "Des Robinson",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "des-fy27-obj3"
+  },
+  {
+    "annualRating": null,
+    "category": "Growth",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (new category added 2026-09-10, split from New Chapter Development & Growth Support, plus a new Mission 365 workshop-deployment metric)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Expansion - 155",
+    "deptSlot": 5,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Plan developed and presented for full bonus ($1,000) \u2014 FY25-26 baseline, to confirm/update for FY27",
+        "text": "Coordinate with the Undergraduate Growth Committee to develop and present a plan supporting the growth of low-membership chapters to sustainable levels"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "40 workshops for full bonus (100%) \u2014 tiers at 20 (25%) / 25 (50%) / 30 (75%) / 40 (100%); added 2026-09-10 per Mike \u2014 dollar value not specified, to confirm",
+        "text": "Deploy Mission 365 workshops across the fraternity"
+      }
+    ],
+    "managerId": "William Scott",
+    "objective": "Growth",
+    "personId": "Des Robinson",
+    "personName": "Des Robinson",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "des-fy27-obj4"
+  },
+  {
+    "annualRating": null,
+    "category": "In-Person Visit Coverage & Reporting",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from Chapter Support Visioning Statement for FY26-27 PDF \u2014 Performance Expectations & Accountability standards, applied to all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "25 visits across 24 chapters (Region 3) by June 30, 2027 \u2014 23 active/associate chapters at 1 visit each, 1 Chapter Enhancement chapter(s) at 2 visits each (1 per semester); logged in the trip tracker",
+        "text": "Complete required in-person chapter visits"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "TransfORM completion, FLC completion, and required document submission reviewed prior to each visit so the data drives visit conversations and meetings",
+        "text": "Review chapter data before every visit"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "100% of visit summary reports submitted to key volunteers and the Managing Director within 3 business days of each in-person visit; reviewed quarterly for timeliness and completeness",
+        "text": "Submit visit summary reports on time"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 Chapter Visit Coverage & Reporting",
+    "personId": "Don McKinney",
+    "personName": "Don McKinney",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "don-fy27-obj1"
+  },
+  {
+    "annualRating": null,
+    "category": "FSL Engagement & Chapter Health Standards",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (added 2026-09-10 \u2014 Strategic Plan review component, from the Visioning Statement's 'Strategic Plan Review at every visit' strategic priority, applied to all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Introduce or re-establish documented, in-person contact with the Fraternity & Sorority Life professional at each campus visited this year; FSL contact name recorded in every visit report",
+        "text": "Establish FSL engagement at every campus visited"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Standardized chapter health assessment completed and submitted with the chapter visit report at or immediately following every visit",
+        "text": "Complete chapter health assessments"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "New P4B and R4L framework reviewed with chapter leadership at every in-person visit; adoption status recorded in the visit report, with follow-up to the TransfORM mentor once in place",
+        "text": "Drive P4B/R4L adoption"
+      },
+      {
+        "id": "kr4",
+        "progress": {},
+        "target": "During the Executive Committee portion of every in-person visit, review the chapter's Strategic Plan with the Pro Consul and provide an update on the chapter's progress toward it \u2014 practiced at 100% of visits this year",
+        "text": "Review the chapter Strategic Plan at every visit"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 On-Campus Chapter Development Standards",
+    "personId": "Don McKinney",
+    "personName": "Don McKinney",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "don-fy27-obj2"
+  },
+  {
+    "annualRating": null,
+    "category": "Bell Chapter Educational Program Delivery",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (added 2026-09-10 \u2014 Bell Chapter Deliveries: specific educational program deliveries for chapters holding Blue-level, $250K+ endowment status with the Sigma Chi Foundation; added as a top-level FY27 priority for all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Placeholder \u2014 confirm with the Sigma Chi Foundation which chapter(s) in Region 3 currently qualify as a Bell Chapter (Blue-level, $250K+ endowment) for FY27",
+        "text": "Identify Bell Chapters in the region"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Placeholder \u2014 exact educational program content and delivery cadence to be confirmed with Ryan Wakefield/the Foundation; deliver to 100% of the region's qualifying Bell Chapters during FY27",
+        "text": "Deliver the required Bell Chapter educational programming"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 Bell Chapter Educational Program Delivery",
+    "personId": "Don McKinney",
+    "personName": "Don McKinney",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "don-fy27-obj3"
+  },
+  {
+    "annualRating": null,
+    "category": "Administration Compliance",
+    "createdAt": "2026-09-10T19:46:26.051Z",
+    "createdBy": "Unattributed",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "General & Administrative - 100",
+    "deptSlot": 1,
+    "keyResults": [
+      {
+        "id": "kr1789069586051-0",
+        "progress": {},
+        "target": "Q3",
+        "text": "Complete"
+      }
+    ],
+    "managerId": "Mike Church",
+    "objective": "Successfully audit and update the document retention policy and all procedures related to it.",
+    "personId": "Brook Gruszka",
+    "personName": "Brook Gruszka",
+    "priority": false,
+    "updatedAt": "2026-09-10T19:46:26.051Z",
+    "id": "es2ibc67eepzgqhzo5k2"
+  },
+  {
+    "annualRating": null,
+    "category": "Recruitment & Chapter Growth",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (Expansion Coordinator role metrics, applied to all current ECs)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Expansion - 155",
+    "deptSlot": 5,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "350 for full bonus ($1,000) \u2014 tiers at 200/250/300/350",
+        "text": "Generate qualified leads"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "101% of target for full bonus ($1,000) \u2014 tiers at 75%/90%/100%/101%",
+        "text": "Achieve strong associate chapter starting size (average)"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "25 for full bonus ($500) \u2014 tiers at 10/15/20/25",
+        "text": "Drive campus organization outreach (NCI)"
+      }
+    ],
+    "managerId": "Des Robinson",
+    "objective": "Recruitment & Chapter Growth Metrics",
+    "personId": "Ethan ORTIZ-ULIBARRI",
+    "personName": "Ethan Ortiz-Ulibarri",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "ethan-fy27-obj1"
+  },
+  {
+    "annualRating": null,
+    "category": "Chapter Startup & Support",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (Expansion Coordinator role metrics, applied to all current ECs)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Expansion - 155",
+    "deptSlot": 5,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "100% for full bonus ($250) \u2014 50% tier at 75%, 100% tier at 100%",
+        "text": "Achieve strong chapter startup performance (average)"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "3 for full bonus ($250) \u2014 50% tier at 2, 100% tier at 3",
+        "text": "Complete support visits (average)"
+      }
+    ],
+    "managerId": "Des Robinson",
+    "objective": "Chapter Startup & Support Metrics",
+    "personId": "Ethan ORTIZ-ULIBARRI",
+    "personName": "Ethan Ortiz-Ulibarri",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "ethan-fy27-obj2"
+  },
+  {
+    "annualRating": null,
+    "category": "In-Person Visit Coverage & Reporting",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from Chapter Support Visioning Statement for FY26-27 PDF \u2014 Performance Expectations & Accountability standards, applied to all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "30 visits across 28 chapters (Region 9) by June 30, 2027 \u2014 26 active/associate chapters at 1 visit each, 2 Chapter Enhancement chapter(s) at 2 visits each (1 per semester); logged in the trip tracker",
+        "text": "Complete required in-person chapter visits"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "TransfORM completion, FLC completion, and required document submission reviewed prior to each visit so the data drives visit conversations and meetings",
+        "text": "Review chapter data before every visit"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "100% of visit summary reports submitted to key volunteers and the Managing Director within 3 business days of each in-person visit; reviewed quarterly for timeliness and completeness",
+        "text": "Submit visit summary reports on time"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 Chapter Visit Coverage & Reporting",
+    "personId": "Jesse Trout",
+    "personName": "Jesse Trout",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "jesse-fy27-obj1"
+  },
+  {
+    "annualRating": null,
+    "category": "FSL Engagement & Chapter Health Standards",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (added 2026-09-10 \u2014 Strategic Plan review component, from the Visioning Statement's 'Strategic Plan Review at every visit' strategic priority, applied to all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Introduce or re-establish documented, in-person contact with the Fraternity & Sorority Life professional at each campus visited this year; FSL contact name recorded in every visit report",
+        "text": "Establish FSL engagement at every campus visited"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Standardized chapter health assessment completed and submitted with the chapter visit report at or immediately following every visit",
+        "text": "Complete chapter health assessments"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "New P4B and R4L framework reviewed with chapter leadership at every in-person visit; adoption status recorded in the visit report, with follow-up to the TransfORM mentor once in place",
+        "text": "Drive P4B/R4L adoption"
+      },
+      {
+        "id": "kr4",
+        "progress": {},
+        "target": "During the Executive Committee portion of every in-person visit, review the chapter's Strategic Plan with the Pro Consul and provide an update on the chapter's progress toward it \u2014 practiced at 100% of visits this year",
+        "text": "Review the chapter Strategic Plan at every visit"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 On-Campus Chapter Development Standards",
+    "personId": "Jesse Trout",
+    "personName": "Jesse Trout",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "jesse-fy27-obj2"
+  },
+  {
+    "annualRating": null,
+    "category": "Bell Chapter Educational Program Delivery",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (added 2026-09-10 \u2014 Bell Chapter Deliveries: specific educational program deliveries for chapters holding Blue-level, $250K+ endowment status with the Sigma Chi Foundation; added as a top-level FY27 priority for all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Placeholder \u2014 confirm with the Sigma Chi Foundation which chapter(s) in Region 9 currently qualify as a Bell Chapter (Blue-level, $250K+ endowment) for FY27",
+        "text": "Identify Bell Chapters in the region"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Placeholder \u2014 exact educational program content and delivery cadence to be confirmed with Ryan Wakefield/the Foundation; deliver to 100% of the region's qualifying Bell Chapters during FY27",
+        "text": "Deliver the required Bell Chapter educational programming"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 Bell Chapter Educational Program Delivery",
+    "personId": "Jesse Trout",
+    "personName": "Jesse Trout",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "jesse-fy27-obj3"
+  },
+  {
+    "annualRating": null,
+    "category": "Travel/Conference Services Improvements",
+    "createdAt": "2026-09-10T19:45:15.678Z",
+    "createdBy": "Unattributed",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "General & Administrative - 100",
+    "deptSlot": 1,
+    "keyResults": [
+      {
+        "id": "kr1789069515678-0",
+        "progress": {},
+        "target": "Q2",
+        "text": "Successful evaluation or implementation"
+      }
+    ],
+    "managerId": "Mike Church",
+    "objective": "Evaluate corporate travel solution platform and make recommendation to Executive Director/President for implementation or improvements",
+    "personId": "Brook Gruszka",
+    "personName": "Brook Gruszka",
+    "priority": false,
+    "updatedAt": "2026-09-10T19:45:15.678Z",
+    "id": "kb8cm0g2uvn2pqbm9aum"
+  },
+  {
+    "annualRating": null,
+    "category": "In-Person Visit Coverage & Reporting",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from Chapter Support Visioning Statement for FY26-27 PDF \u2014 Performance Expectations & Accountability standards, applied to all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "28 visits across 26 chapters (Region 4) by June 30, 2027 \u2014 24 active/associate chapters at 1 visit each, 2 Chapter Enhancement chapter(s) at 2 visits each (1 per semester); logged in the trip tracker",
+        "text": "Complete required in-person chapter visits"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "TransfORM completion, FLC completion, and required document submission reviewed prior to each visit so the data drives visit conversations and meetings",
+        "text": "Review chapter data before every visit"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "100% of visit summary reports submitted to key volunteers and the Managing Director within 3 business days of each in-person visit; reviewed quarterly for timeliness and completeness",
+        "text": "Submit visit summary reports on time"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 Chapter Visit Coverage & Reporting",
+    "personId": "Larry Cukjati",
+    "personName": "Larry Cukjati",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "larry-fy27-obj1"
+  },
+  {
+    "annualRating": null,
+    "category": "FSL Engagement & Chapter Health Standards",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (added 2026-09-10 \u2014 Strategic Plan review component, from the Visioning Statement's 'Strategic Plan Review at every visit' strategic priority, applied to all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Introduce or re-establish documented, in-person contact with the Fraternity & Sorority Life professional at each campus visited this year; FSL contact name recorded in every visit report",
+        "text": "Establish FSL engagement at every campus visited"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Standardized chapter health assessment completed and submitted with the chapter visit report at or immediately following every visit",
+        "text": "Complete chapter health assessments"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "New P4B and R4L framework reviewed with chapter leadership at every in-person visit; adoption status recorded in the visit report, with follow-up to the TransfORM mentor once in place",
+        "text": "Drive P4B/R4L adoption"
+      },
+      {
+        "id": "kr4",
+        "progress": {},
+        "target": "During the Executive Committee portion of every in-person visit, review the chapter's Strategic Plan with the Pro Consul and provide an update on the chapter's progress toward it \u2014 practiced at 100% of visits this year",
+        "text": "Review the chapter Strategic Plan at every visit"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 On-Campus Chapter Development Standards",
+    "personId": "Larry Cukjati",
+    "personName": "Larry Cukjati",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "larry-fy27-obj2"
+  },
+  {
+    "annualRating": null,
+    "category": "Bell Chapter Educational Program Delivery",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (added 2026-09-10 \u2014 Bell Chapter Deliveries: specific educational program deliveries for chapters holding Blue-level, $250K+ endowment status with the Sigma Chi Foundation; added as a top-level FY27 priority for all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Placeholder \u2014 confirm with the Sigma Chi Foundation which chapter(s) in Region 4 currently qualify as a Bell Chapter (Blue-level, $250K+ endowment) for FY27",
+        "text": "Identify Bell Chapters in the region"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Placeholder \u2014 exact educational program content and delivery cadence to be confirmed with Ryan Wakefield/the Foundation; deliver to 100% of the region's qualifying Bell Chapters during FY27",
+        "text": "Deliver the required Bell Chapter educational programming"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 Bell Chapter Educational Program Delivery",
+    "personId": "Larry Cukjati",
+    "personName": "Larry Cukjati",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "larry-fy27-obj3"
+  },
+  {
+    "annualRating": null,
+    "assigneeId": "Justin Hanen",
+    "assigneeIds": [
+      "Ashley Szatala",
+      "DAVID JONES",
+      "Justin Hanen",
+      "Nate Hawthorne"
+    ],
+    "assigneeName": "Justin Hanen",
+    "category": "Marketing & communications strategy",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from 2027 Comprehensive Marketing Plan)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Engagement & Communications",
+    "deptSlot": 8,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Audit completed by Q2 (Oct\u2013Dec 2026)",
+        "text": "Conduct an audit of Fraternity communications for 2025-26, exploring performance and themes that drive impact"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Plan delivered by Q3 (Jan\u2013Mar 2027)",
+        "text": "Produce a comprehensive marketing plan for 2027 based on fraternity priorities, desired behaviors and outcomes, and informed by the communications audit"
+      }
+    ],
+    "managerId": "Mike Church",
+    "objective": "2027 Comprehensive Marketing Plan",
+    "personId": "Leo Fackler",
+    "personName": "Leo Fackler",
+    "priority": true,
+    "updatedAt": "2026-09-10T18:31:56.966Z",
+    "id": "leo-fy27-comms-obj1"
+  },
+  {
+    "annualRating": null,
+    "assigneeId": null,
+    "assigneeIds": [
+      "Nate Hawthorne"
+    ],
+    "assigneeName": null,
+    "category": "Communication automation & Salesforce/Informz",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from 2027 Comprehensive Marketing Plan)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Engagement & Communications",
+    "deptSlot": 8,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Live by Q3 (Jan\u2013Mar 2027)",
+        "text": "Complete email automations for all key member milestones (birthday, LLS date, initiation anniversary, 10/25/50/75-year milestones, chapter anniversary, etc.)"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Plan complete by Q2 (Oct\u2013Dec 2026)",
+        "text": "Build an automation plan related to chapter roles and TransfORM, strategically utilizing Salesforce, Informz, and the Member Hub"
+      }
+    ],
+    "managerId": "Mike Church",
+    "objective": "Communication Automations",
+    "personId": "Leo Fackler",
+    "personName": "Leo Fackler",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "leo-fy27-eng-obj1"
+  },
+  {
+    "annualRating": null,
+    "assigneeIds": [
+      "DAVID JONES"
+    ],
+    "category": "Brand & educational program identity",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from 2027 Comprehensive Marketing Plan)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Engagement & Communications",
+    "deptSlot": 8,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Set by Q2 (Oct\u2013Dec 2026)",
+        "text": "Work with SCLI to prioritize which programs/certificates need updated branding"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Approved before 2027 promo cycle \u2014 placeholder Q3 (Jan\u2013Mar 2027), pending Leo confirming the actual promo-cycle date",
+        "text": "Complete logo design and receive approval prior to the 2027 promotional cycle"
+      }
+    ],
+    "managerId": "Mike Church",
+    "objective": "Educational Program Logo Redesign",
+    "personId": "Leo Fackler",
+    "personName": "Leo Fackler",
+    "priority": true,
+    "updatedAt": "2026-09-10T18:32:14.210Z",
+    "id": "leo-fy27-eng-obj2"
+  },
+  {
+    "annualRating": null,
+    "assigneeIds": [
+      "DAVID JONES"
+    ],
+    "category": "Digital platform / website",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from 2027 Comprehensive Marketing Plan)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Engagement & Communications",
+    "deptSlot": 8,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Finalized by Q2 (Oct\u2013Dec 2026)",
+        "text": "Finalize wireframe for the new sigmachi.org"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Identified by Q3 (Jan\u2013Mar 2027)",
+        "text": "Identify a timeline to launch the updated site early in the 2027-29 biennium"
+      }
+    ],
+    "managerId": "Mike Church",
+    "objective": "Sigmachi.org Redesign",
+    "personId": "Leo Fackler",
+    "personName": "Leo Fackler",
+    "priority": true,
+    "updatedAt": "2026-09-10T18:32:19.113Z",
+    "id": "leo-fy27-eng-obj3"
+  },
+  {
+    "annualRating": null,
+    "assigneeIds": [
+      "Ashley Szatala",
+      "DAVID JONES",
+      "Justin Hanen",
+      "Lesley Nickels",
+      "Nate Hawthorne"
+    ],
+    "category": "Member engagement platform growth",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from 2027 Comprehensive Marketing Plan)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Engagement & Communications",
+    "deptSlot": 8,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "400 new subscribers by June 30, 2027",
+        "text": "Grow Sigma Chi+ subscribers (operational target)"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "800 new subscribers by June 30, 2027",
+        "text": "Stretch \u2014 Grow Sigma Chi+ subscribers beyond the operational target"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "Launched by Q3 (Jan\u2013Mar 2027)",
+        "text": "Launch the Sigma Chi Business Directory with Premium+ as the buy-in to be listed"
+      }
+    ],
+    "managerId": "Mike Church",
+    "objective": "Sigma Chi+ Growth",
+    "personId": "Leo Fackler",
+    "personName": "Leo Fackler",
+    "priority": true,
+    "updatedAt": "2026-09-10T18:32:29.882Z",
+    "id": "leo-fy27-eng-obj4"
+  },
+  {
+    "annualRating": null,
+    "category": "Financial & Operational Leadership",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from 2026-27 Bonus Goals \u2014 Church.xlsx)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "General & Administrative - 100",
+    "deptSlot": 1,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Within EC-approved budget, reviewed quarterly",
+        "text": "[Financial Management & Stewardship, 20%] Manage organizational spending within the Executive Committee-approved FY27 budget"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Delivered at each quarterly EC meeting",
+        "text": "[Financial Management & Stewardship, 20%] Provide budget development, forecasting, and strategic financial recommendations to the Executive Committee, balancing the org's strategic objectives against short- and long-term financial health"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "Tracked via the Goal Tracker department roll-up each quarter",
+        "text": "[Operational Excellence, 20%] Ensure the organization meets its FY27 strategic goals through effective day-to-day leadership of HQ operations and staff"
+      },
+      {
+        "id": "kr4",
+        "progress": {},
+        "target": "Placeholder \u2014 Mike to define the specific measure (e.g. staff engagement survey, retention rate, development plans completed) and target",
+        "text": "[Operational Excellence, 20%] Foster a culture where HQ staff are engaged, empowered, and supported in continued professional growth"
+      }
+    ],
+    "managerId": null,
+    "objective": "Financial and Operational Management (40% of the FY27 Bonus Evaluation)",
+    "personId": "Mike Church",
+    "personName": "Mike Church",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "mike-fy27-obj1"
+  },
+  {
+    "annualRating": null,
+    "category": "External & Internal Relationship Building",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from 2026-27 Bonus Goals \u2014 Church.xlsx)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "General & Administrative - 100",
+    "deptSlot": 1,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Ongoing \u2014 board-assessed at annual review",
+        "text": "[Quality & Depth of Relationships with Partner Orgs, 10%] Cultivate professional, transparent relationships with board members and executive counterparts of Sigma Chi's related organizations (SCLI, Foundation, RMF, CHI)"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "At least one interfraternal leadership/involvement opportunity pursued in FY27, reported to the board",
+        "text": "[Quality of Representation to Interfraternal Orgs, 10%] Represent SigmaChiHQ within the interfraternal community (NIC, FEA, FSPAC, FSAF, etc.), maintaining a high degree of respect and actively seeking leadership/involvement opportunities"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "Ongoing \u2014 board-assessed at annual review",
+        "text": "[Spreading the Spirit of Sigma Chi, 10%] Model Fraternity values in a high-visibility role and actively support initiatives that improve communications and engagement across the membership"
+      }
+    ],
+    "managerId": null,
+    "objective": "Internal & Interfraternal Relationship Building (30% of the FY27 Bonus Evaluation)",
+    "personId": "Mike Church",
+    "personName": "Mike Church",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "mike-fy27-obj2"
+  },
+  {
+    "annualRating": null,
+    "category": "Staff Performance Metrics & Strategic Alignment",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from 2026-27 Bonus Goals \u2014 Church.xlsx)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "General & Administrative - 100",
+    "deptSlot": 1,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Drafted and submitted for EC endorsement \u2014 placeholder target quarter, Mike to set",
+        "text": "[Develop & Implement Staff Performance Metrics, 30%] Develop high-level HQ staff performance metrics covering Chapter Support, Expansion, Communications, Member Engagement, and Administration (Operations, HR, Accounting, Conference & Travel Services)"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Placeholder \u2014 Mike to set a target quarter",
+        "text": "[Develop & Implement Staff Performance Metrics, 30%] Seek Executive Committee endorsement of the staff performance metrics"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "In active use \u2014 placeholder target quarter, Mike to set",
+        "text": "[Develop & Implement Staff Performance Metrics, 30%] Implement a process to track HQ staff performance against the endorsed metrics with the Headquarters staff"
+      }
+    ],
+    "managerId": null,
+    "objective": "Strategic Priorities \u2014 Staff Performance Metrics (30% of the FY27 Bonus Evaluation)",
+    "personId": "Mike Church",
+    "personName": "Mike Church",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "mike-fy27-obj3"
+  },
+  {
+    "annualRating": null,
+    "category": "Recruitment & Chapter Growth",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (Expansion Coordinator role metrics, applied to all current ECs)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Expansion - 155",
+    "deptSlot": 5,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "350 for full bonus ($1,000) \u2014 tiers at 200/250/300/350",
+        "text": "Generate qualified leads"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "101% of target for full bonus ($1,000) \u2014 tiers at 75%/90%/100%/101%",
+        "text": "Achieve strong associate chapter starting size (average)"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "25 for full bonus ($500) \u2014 tiers at 10/15/20/25",
+        "text": "Drive campus organization outreach (NCI)"
+      }
+    ],
+    "managerId": "Des Robinson",
+    "objective": "Recruitment & Chapter Growth Metrics",
+    "personId": "Nicholas Cavallerano",
+    "personName": "Nicholas Cavallerano",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "nicholas-fy27-obj1"
+  },
+  {
+    "annualRating": null,
+    "category": "Chapter Startup & Support",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (Expansion Coordinator role metrics, applied to all current ECs)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Expansion - 155",
+    "deptSlot": 5,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "100% for full bonus ($250) \u2014 50% tier at 75%, 100% tier at 100%",
+        "text": "Achieve strong chapter startup performance (average)"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "3 for full bonus ($250) \u2014 50% tier at 2, 100% tier at 3",
+        "text": "Complete support visits (average)"
+      }
+    ],
+    "managerId": "Des Robinson",
+    "objective": "Chapter Startup & Support Metrics",
+    "personId": "Nicholas Cavallerano",
+    "personName": "Nicholas Cavallerano",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "nicholas-fy27-obj2"
+  },
+  {
+    "annualRating": null,
+    "category": "Recruitment & Chapter Growth",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (Expansion Coordinator role metrics, applied to all current ECs)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Expansion - 155",
+    "deptSlot": 5,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "350 for full bonus ($1,000) \u2014 tiers at 200/250/300/350",
+        "text": "Generate qualified leads"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "101% of target for full bonus ($1,000) \u2014 tiers at 75%/90%/100%/101%",
+        "text": "Achieve strong associate chapter starting size (average)"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "25 for full bonus ($500) \u2014 tiers at 10/15/20/25",
+        "text": "Drive campus organization outreach (NCI)"
+      }
+    ],
+    "managerId": "Des Robinson",
+    "objective": "Recruitment & Chapter Growth Metrics",
+    "personId": "Parker Lyon",
+    "personName": "Parker Lyon",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "parker-fy27-obj1"
+  },
+  {
+    "annualRating": null,
+    "category": "Chapter Startup & Support",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (Expansion Coordinator role metrics, applied to all current ECs)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Expansion - 155",
+    "deptSlot": 5,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "100% for full bonus ($250) \u2014 50% tier at 75%, 100% tier at 100%",
+        "text": "Achieve strong chapter startup performance (average)"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "3 for full bonus ($250) \u2014 50% tier at 2, 100% tier at 3",
+        "text": "Complete support visits (average)"
+      }
+    ],
+    "managerId": "Des Robinson",
+    "objective": "Chapter Startup & Support Metrics",
+    "personId": "Parker Lyon",
+    "personName": "Parker Lyon",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "parker-fy27-obj2"
+  },
+  {
+    "annualRating": null,
+    "assigneeIds": [
+      "Brook Gruszka",
+      "DAKOTA NEFF"
+    ],
+    "category": "Systems Implementation & Automation",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (dictated goals for Peter Holzhausen)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Accounting - 120",
+    "deptSlot": 2,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "By end of Q2 (Oct\u2013Dec 2026)",
+        "text": "Complete the core Rippling implementation"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "By end of Q2 (Oct\u2013Dec 2026)",
+        "text": "Build and deploy Rippling automations"
+      }
+    ],
+    "managerId": "Mike Church",
+    "objective": "Complete Rippling Implementation & Automations",
+    "personId": "PETER HOLZHAUSEN",
+    "personName": "Peter Holzhausen",
+    "priority": true,
+    "updatedAt": "2026-09-10T18:57:24.070Z",
+    "id": "peter-fy27-obj1"
+  },
+  {
+    "annualRating": null,
+    "assigneeIds": [
+      "Bella Gazso",
+      "Irina Gorfinkel"
+    ],
+    "category": "Financial Reporting & Process Improvement",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (dictated goals for Peter Holzhausen)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Accounting - 120",
+    "deptSlot": 2,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "By end of Q2 (Oct\u2013Dec 2026)",
+        "text": "Implement new technology to drive efficiency into the AP/AR process for the accounting team"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Placeholder \u2014 Peter to define the specific efficiency metric/baseline, measured by end of Q2",
+        "text": "Document the efficiency gain achieved from the new AP/AR technology (e.g. reduced processing time or manual steps)"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "By end of Q2 (Oct\u2013Dec 2026)",
+        "text": "Implement an automated cash flow report"
+      },
+      {
+        "id": "kr4",
+        "progress": {},
+        "target": "By end of Q2 (Oct\u2013Dec 2026)",
+        "text": "Validate the automated cash flow report's accuracy against manual reconciliation"
+      }
+    ],
+    "managerId": "Mike Church",
+    "objective": "Financial Reporting Improvements",
+    "personId": "PETER HOLZHAUSEN",
+    "personName": "Peter Holzhausen",
+    "priority": true,
+    "updatedAt": "2026-09-10T18:57:37.734Z",
+    "id": "peter-fy27-obj2"
+  },
+  {
+    "annualRating": null,
+    "assigneeIds": [
+      "Rodolfo Garcia",
+      "ZACHARY THOMPSON"
+    ],
+    "category": "Data & Reporting Technology Adoption",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (dictated goals for Peter Holzhausen)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Accounting - 120",
+    "deptSlot": 2,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "By end of Q3 (Jan\u2013Mar 2027)",
+        "text": "Drive adoption of technology that improves the end-user experience and efficiency for staff managing data flow and analysis, with specific focus on the annual report/Peterson process"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Placeholder \u2014 Peter to define the specific improvement metric, measured by end of Q3",
+        "text": "Document measurable improvement in end-user experience/efficiency from the new tooling (e.g. time saved on the annual report/Peterson process)"
+      }
+    ],
+    "managerId": "Mike Church",
+    "objective": "Staff Data Tooling & the Annual Report/Peterson Process",
+    "personId": "PETER HOLZHAUSEN",
+    "personName": "Peter Holzhausen",
+    "priority": true,
+    "updatedAt": "2026-09-10T18:57:47.954Z",
+    "id": "peter-fy27-obj3"
+  },
+  {
+    "annualRating": null,
+    "assigneeIds": [
+      "Rodolfo Garcia",
+      "ZACHARY THOMPSON"
+    ],
+    "category": "Member/Chapter Service Operations",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (dictated goals for Peter Holzhausen)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Accounting - 120",
+    "deptSlot": 2,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Placeholder \u2014 updated helpdesk response-time metrics pending, to be inserted once available",
+        "text": "Meet documented helpdesk response-time targets"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Placeholder \u2014 updated helpdesk resolution/quality metrics pending, to be inserted once available",
+        "text": "Meet documented helpdesk resolution/quality targets"
+      }
+    ],
+    "managerId": "Mike Church",
+    "objective": "Helpdesk Performance",
+    "personId": "PETER HOLZHAUSEN",
+    "personName": "Peter Holzhausen",
+    "priority": true,
+    "updatedAt": "2026-09-10T18:57:56.458Z",
+    "id": "peter-fy27-obj4"
+  },
+  {
+    "annualRating": null,
+    "assigneeIds": [
+      "Juli Lai",
+      "ZACHARY THOMPSON"
+    ],
+    "category": "Front-Line Representation & Customer Service",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (dictated goals for Peter Holzhausen)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Accounting - 120",
+    "deptSlot": 2,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Placeholder \u2014 Peter to set a target completion quarter",
+        "text": "Review and update customer service protocols for phone and email inquiries"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Ongoing, tracked quarterly \u2014 phone within 24 hours, email within 48 hours",
+        "text": "Meet response-time standard for general inquiries"
+      }
+    ],
+    "managerId": "Mike Church",
+    "objective": "Customer Service Protocol & Response-Time Standards",
+    "personId": "PETER HOLZHAUSEN",
+    "personName": "Peter Holzhausen",
+    "priority": true,
+    "updatedAt": "2026-09-10T18:58:11.899Z",
+    "id": "peter-fy27-obj5"
+  },
+  {
+    "annualRating": null,
+    "assigneeIds": [
+      "Juli Lai",
+      "KIRK JOHNSON"
+    ],
+    "category": "Inventory & Operations Reporting",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (dictated goals for Peter Holzhausen)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Accounting - 120",
+    "deptSlot": 2,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Placeholder \u2014 Peter to set a target completion quarter",
+        "text": "Implement an inventory tracking mechanism"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "At least quarterly",
+        "text": "Ensure inventory reports are accurately updated"
+      }
+    ],
+    "managerId": "Mike Church",
+    "objective": "Inventory Tracking Mechanism",
+    "personId": "PETER HOLZHAUSEN",
+    "personName": "Peter Holzhausen",
+    "priority": true,
+    "updatedAt": "2026-09-10T18:58:16.318Z",
+    "id": "peter-fy27-obj7"
+  },
+  {
+    "annualRating": null,
+    "category": "In-Person Visit Coverage & Reporting",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from Chapter Support Visioning Statement for FY26-27 PDF \u2014 Performance Expectations & Accountability standards, applied to all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "32 visits across 29 chapters (Region 6) by June 30, 2027 \u2014 26 active/associate chapters at 1 visit each, 3 Chapter Enhancement chapter(s) at 2 visits each (1 per semester); logged in the trip tracker",
+        "text": "Complete required in-person chapter visits"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "TransfORM completion, FLC completion, and required document submission reviewed prior to each visit so the data drives visit conversations and meetings",
+        "text": "Review chapter data before every visit"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "100% of visit summary reports submitted to key volunteers and the Managing Director within 3 business days of each in-person visit; reviewed quarterly for timeliness and completeness",
+        "text": "Submit visit summary reports on time"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 Chapter Visit Coverage & Reporting",
+    "personId": "RYAN GUNTHER",
+    "personName": "Ryan Gunther",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "ryang-fy27-obj1"
+  },
+  {
+    "annualRating": null,
+    "category": "FSL Engagement & Chapter Health Standards",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (added 2026-09-10 \u2014 Strategic Plan review component, from the Visioning Statement's 'Strategic Plan Review at every visit' strategic priority, applied to all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Introduce or re-establish documented, in-person contact with the Fraternity & Sorority Life professional at each campus visited this year; FSL contact name recorded in every visit report",
+        "text": "Establish FSL engagement at every campus visited"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Standardized chapter health assessment completed and submitted with the chapter visit report at or immediately following every visit",
+        "text": "Complete chapter health assessments"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "New P4B and R4L framework reviewed with chapter leadership at every in-person visit; adoption status recorded in the visit report, with follow-up to the TransfORM mentor once in place",
+        "text": "Drive P4B/R4L adoption"
+      },
+      {
+        "id": "kr4",
+        "progress": {},
+        "target": "During the Executive Committee portion of every in-person visit, review the chapter's Strategic Plan with the Pro Consul and provide an update on the chapter's progress toward it \u2014 practiced at 100% of visits this year",
+        "text": "Review the chapter Strategic Plan at every visit"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 On-Campus Chapter Development Standards",
+    "personId": "RYAN GUNTHER",
+    "personName": "Ryan Gunther",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "ryang-fy27-obj2"
+  },
+  {
+    "annualRating": null,
+    "category": "Bell Chapter Educational Program Delivery",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (added 2026-09-10 \u2014 Bell Chapter Deliveries: specific educational program deliveries for chapters holding Blue-level, $250K+ endowment status with the Sigma Chi Foundation; added as a top-level FY27 priority for all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Placeholder \u2014 confirm with the Sigma Chi Foundation which chapter(s) in Region 6 currently qualify as a Bell Chapter (Blue-level, $250K+ endowment) for FY27",
+        "text": "Identify Bell Chapters in the region"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Placeholder \u2014 exact educational program content and delivery cadence to be confirmed with Ryan Wakefield/the Foundation; deliver to 100% of the region's qualifying Bell Chapters during FY27",
+        "text": "Deliver the required Bell Chapter educational programming"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 Bell Chapter Educational Program Delivery",
+    "personId": "RYAN GUNTHER",
+    "personName": "Ryan Gunther",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "ryang-fy27-obj3"
+  },
+  {
+    "annualRating": null,
+    "category": "In-Person Visit Coverage & Reporting",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from Chapter Support Visioning Statement for FY26-27 PDF \u2014 Performance Expectations & Accountability standards, applied to all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "30 visits across 29 chapters (Region 2) by June 30, 2027 \u2014 28 active/associate chapters at 1 visit each, 1 Chapter Enhancement chapter(s) at 2 visits each (1 per semester); logged in the trip tracker",
+        "text": "Complete required in-person chapter visits"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "TransfORM completion, FLC completion, and required document submission reviewed prior to each visit so the data drives visit conversations and meetings",
+        "text": "Review chapter data before every visit"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "100% of visit summary reports submitted to key volunteers and the Managing Director within 3 business days of each in-person visit; reviewed quarterly for timeliness and completeness",
+        "text": "Submit visit summary reports on time"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 Chapter Visit Coverage & Reporting",
+    "personId": "Stuart Stringham",
+    "personName": "Stuart Stringham",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "stuart-fy27-obj1"
+  },
+  {
+    "annualRating": null,
+    "category": "FSL Engagement & Chapter Health Standards",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (added 2026-09-10 \u2014 Strategic Plan review component, from the Visioning Statement's 'Strategic Plan Review at every visit' strategic priority, applied to all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Introduce or re-establish documented, in-person contact with the Fraternity & Sorority Life professional at each campus visited this year; FSL contact name recorded in every visit report",
+        "text": "Establish FSL engagement at every campus visited"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Standardized chapter health assessment completed and submitted with the chapter visit report at or immediately following every visit",
+        "text": "Complete chapter health assessments"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "New P4B and R4L framework reviewed with chapter leadership at every in-person visit; adoption status recorded in the visit report, with follow-up to the TransfORM mentor once in place",
+        "text": "Drive P4B/R4L adoption"
+      },
+      {
+        "id": "kr4",
+        "progress": {},
+        "target": "During the Executive Committee portion of every in-person visit, review the chapter's Strategic Plan with the Pro Consul and provide an update on the chapter's progress toward it \u2014 practiced at 100% of visits this year",
+        "text": "Review the chapter Strategic Plan at every visit"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 On-Campus Chapter Development Standards",
+    "personId": "Stuart Stringham",
+    "personName": "Stuart Stringham",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "stuart-fy27-obj2"
+  },
+  {
+    "annualRating": null,
+    "category": "Bell Chapter Educational Program Delivery",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (added 2026-09-10 \u2014 Bell Chapter Deliveries: specific educational program deliveries for chapters holding Blue-level, $250K+ endowment status with the Sigma Chi Foundation; added as a top-level FY27 priority for all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Placeholder \u2014 confirm with the Sigma Chi Foundation which chapter(s) in Region 2 currently qualify as a Bell Chapter (Blue-level, $250K+ endowment) for FY27",
+        "text": "Identify Bell Chapters in the region"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Placeholder \u2014 exact educational program content and delivery cadence to be confirmed with Ryan Wakefield/the Foundation; deliver to 100% of the region's qualifying Bell Chapters during FY27",
+        "text": "Deliver the required Bell Chapter educational programming"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 Bell Chapter Educational Program Delivery",
+    "personId": "Stuart Stringham",
+    "personName": "Stuart Stringham",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "stuart-fy27-obj3"
+  },
+  {
+    "annualRating": null,
+    "category": "In-Person Visit Coverage & Reporting",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (from Chapter Support Visioning Statement for FY26-27 PDF \u2014 Performance Expectations & Accountability standards, applied to all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "26 visits across 25 chapters (Region 7) by June 30, 2027 \u2014 24 active/associate chapters at 1 visit each, 1 Chapter Enhancement chapter(s) at 2 visits each (1 per semester); logged in the trip tracker",
+        "text": "Complete required in-person chapter visits"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "TransfORM completion, FLC completion, and required document submission reviewed prior to each visit so the data drives visit conversations and meetings",
+        "text": "Review chapter data before every visit"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "100% of visit summary reports submitted to key volunteers and the Managing Director within 3 business days of each in-person visit; reviewed quarterly for timeliness and completeness",
+        "text": "Submit visit summary reports on time"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 Chapter Visit Coverage & Reporting",
+    "personId": "Thomas Almasy",
+    "personName": "Thomas Almasy",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "thomas-fy27-obj1"
+  },
+  {
+    "annualRating": null,
+    "category": "FSL Engagement & Chapter Health Standards",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (added 2026-09-10 \u2014 Strategic Plan review component, from the Visioning Statement's 'Strategic Plan Review at every visit' strategic priority, applied to all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Introduce or re-establish documented, in-person contact with the Fraternity & Sorority Life professional at each campus visited this year; FSL contact name recorded in every visit report",
+        "text": "Establish FSL engagement at every campus visited"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Standardized chapter health assessment completed and submitted with the chapter visit report at or immediately following every visit",
+        "text": "Complete chapter health assessments"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "New P4B and R4L framework reviewed with chapter leadership at every in-person visit; adoption status recorded in the visit report, with follow-up to the TransfORM mentor once in place",
+        "text": "Drive P4B/R4L adoption"
+      },
+      {
+        "id": "kr4",
+        "progress": {},
+        "target": "During the Executive Committee portion of every in-person visit, review the chapter's Strategic Plan with the Pro Consul and provide an update on the chapter's progress toward it \u2014 practiced at 100% of visits this year",
+        "text": "Review the chapter Strategic Plan at every visit"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 On-Campus Chapter Development Standards",
+    "personId": "Thomas Almasy",
+    "personName": "Thomas Almasy",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "thomas-fy27-obj2"
+  },
+  {
+    "annualRating": null,
+    "category": "Bell Chapter Educational Program Delivery",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (added 2026-09-10 \u2014 Bell Chapter Deliveries: specific educational program deliveries for chapters holding Blue-level, $250K+ endowment status with the Sigma Chi Foundation; added as a top-level FY27 priority for all RCSCs reporting to Ryan Wakefield)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Placeholder \u2014 confirm with the Sigma Chi Foundation which chapter(s) in Region 7 currently qualify as a Bell Chapter (Blue-level, $250K+ endowment) for FY27",
+        "text": "Identify Bell Chapters in the region"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Placeholder \u2014 exact educational program content and delivery cadence to be confirmed with Ryan Wakefield/the Foundation; deliver to 100% of the region's qualifying Bell Chapters during FY27",
+        "text": "Deliver the required Bell Chapter educational programming"
+      }
+    ],
+    "managerId": "Ryan Wakefield",
+    "objective": "FY27 Bell Chapter Educational Program Delivery",
+    "personId": "Thomas Almasy",
+    "personName": "Thomas Almasy",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "thomas-fy27-obj3"
+  },
+  {
+    "annualRating": null,
+    "category": "Chapter support/enhancement performance metric defined & tracked",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (extrapolated top-level objectives for Ryan Wakefield from the Chapter Support Visioning Statement for FY26-27 PDF \u2014 Strategic Priorities, SWOT Analysis, and Performance Expectations & Accountability sections)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "100% of the ~243 chapters across all 9 regions receive their required in-person visit(s) by June 30, 2027 (1 visit per active/associate chapter, 2 visits per Chapter Enhancement chapter), tracked via the trip tracker \u2014 chapter/visit counts per the April 2026 Team Overview roster",
+        "text": "Achieve full team visit-standard compliance"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Each of the 9 RCS coordinators reviewed against the 6 baseline performance standards (visit completion, pre-visit prep, FSL engagement, chapter health assessment, P4B/R4L adoption, visit reporting) once per quarter, Q1\u2013Q4 FY27",
+        "text": "Conduct quarterly performance reviews of all 9 RCS coordinators"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "100% of visit summary reports across the team submitted within 3 business days of each visit; reviewed quarterly for timeliness and completeness",
+        "text": "Ensure team-wide visit reporting compliance"
+      }
+    ],
+    "managerId": "William Scott",
+    "objective": "FY27 Team-Wide Visit Standard & Quarterly Performance Review",
+    "personId": "Ryan Wakefield",
+    "personName": "Ryan Wakefield",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "wakefield-fy27-obj1"
+  },
+  {
+    "annualRating": null,
+    "category": "FLC / curriculum completion rate",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (extrapolated top-level objectives for Ryan Wakefield from the Chapter Support Visioning Statement for FY26-27 PDF \u2014 Strategic Priorities, SWOT Analysis, and Performance Expectations & Accountability sections)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "P4B and R4L reviewed with chapter leadership at 100% of in-person visits across all 9 regions, with adoption status recorded in each visit report",
+        "text": "Roll out the refreshed P4B/R4L framework team-wide"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Placeholder \u2014 exact KTLW date/deadline to be confirmed; all 9 RCS coordinators complete training on the refreshed P4B/R4L curriculum prior to KTLW",
+        "text": "Prepare the team for KTLW"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "Placeholder \u2014 FY25-26 baseline FLC completion rate to be confirmed; year-over-year improvement measured and reported at FY close (Q4 FY27)",
+        "text": "Improve FLC completion rate year-over-year"
+      }
+    ],
+    "managerId": "William Scott",
+    "objective": "FY27 Foundational Leadership (P4B/R4L) Rollout & FLC Completion",
+    "personId": "Ryan Wakefield",
+    "personName": "Ryan Wakefield",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "wakefield-fy27-obj2"
+  },
+  {
+    "annualRating": null,
+    "category": "Chapters matriculated out of enhancement program",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "createdBy": "Mike Church (extrapolated top-level objectives for Ryan Wakefield from the Chapter Support Visioning Statement for FY26-27 PDF \u2014 Strategic Priorities, SWOT Analysis, and Performance Expectations & Accountability sections)",
+    "cycle": "FY2026\u201327 (Jul 2026\u2013Jun 2027)",
+    "dept": "Chapter Support & Enhancement - 160",
+    "deptSlot": 6,
+    "keyResults": [
+      {
+        "id": "kr1",
+        "progress": {},
+        "target": "Placeholder \u2014 exact pilot scope/timeline to be confirmed; quantitative Chapter Health Score model built using Salesforce data and AI and piloted on a sample chapter set, addressing the SWOT-identified gap that 'lack of a Chapter Health Score prevents intentional focus'",
+        "text": "Design and pilot a data-driven Chapter Health Score"
+      },
+      {
+        "id": "kr2",
+        "progress": {},
+        "target": "Defined support strategy set for chapters in the Chapter Enhancement program for FY27, informed by this year's Annual Report data on chapters' return to baseline performance",
+        "text": "Sharpen Chapter Enhancement program focus"
+      },
+      {
+        "id": "kr3",
+        "progress": {},
+        "target": "Documented FSL outreach on every campus visited across all 9 regions this year, tracked via visit-report FSL contact fields \u2014 addressing the SWOT weakness of underdeveloped FSL relationships on many campuses",
+        "text": "Strengthen FSL relationships team-wide"
+      }
+    ],
+    "managerId": "William Scott",
+    "objective": "FY27 Chapter Health Score Build & Chapter Enhancement Focus",
+    "personId": "Ryan Wakefield",
+    "personName": "Ryan Wakefield",
+    "priority": true,
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "id": "wakefield-fy27-obj3"
+  }
+]
