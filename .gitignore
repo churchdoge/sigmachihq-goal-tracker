@@ -1,0 +1,4 @@
+node_modules/
+data/goals.json
+npm-debug.log
+.DS_Store
