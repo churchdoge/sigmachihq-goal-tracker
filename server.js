@@ -15,7 +15,13 @@ const path = require("path");
 const PORT = process.env.PORT || 3000;
 const DATA_DIR = path.join(__dirname, "data");
 const DATA_FILE = path.join(DATA_DIR, "goals.json");
-const SEED_FILE = path.join(DATA_DIR, "goals.seed.json");
+// The seed file lives OUTSIDE data/ on purpose: data/ is where a Render
+// persistent disk gets mounted, and a disk mount can shadow/replace
+// whatever was checked out from git at that path. Keeping the seed file
+// in its own top-level folder means it always survives a fresh disk
+// attach or a redeploy, even if the live data file underneath it is
+// empty or missing.
+const SEED_FILE = path.join(__dirname, "seed-data", "goals.seed.json");
 
 const app = express();
 app.use(express.json({ limit: "2mb" }));
@@ -31,7 +37,16 @@ function loadInitial() {
   if (fs.existsSync(DATA_FILE)) {
     try {
       const raw = fs.readFileSync(DATA_FILE, "utf8");
-      return JSON.parse(raw);
+      const parsed = JSON.parse(raw);
+      // Treat an empty list the same as "no file yet" and fall through to
+      // the seed data below. This is what makes the app self-heal if a
+      // persistent disk ever mounts empty over data/ again (as happened
+      // once during setup) instead of quietly starting the site at zero
+      // objectives.
+      if (Array.isArray(parsed) && parsed.length > 0) {
+        return parsed;
+      }
+      console.error("data/goals.json exists but is empty — re-seeding from goals.seed.json instead.");
     } catch (e) {
       console.error("Failed to parse data/goals.json — starting from the seed file instead.", e);
     }
